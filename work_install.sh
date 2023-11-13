@@ -44,6 +44,7 @@ flatpaks=(
     com.visualstudio.code
     io.github.shiftey.Desktop
     org.remmina.Remmina
+    org.eclipse.Javascript
     # Add more Flatpak app IDs as needed
 )
 
