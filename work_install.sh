@@ -50,3 +50,5 @@ flatpaks=(
 for app_id in "${flatpaks[@]}"; do
     flatpak install --assumeyes $app_id
 done
+
+echo "Flatpak installation completed!"
