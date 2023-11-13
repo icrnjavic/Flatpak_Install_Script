@@ -1,6 +1,6 @@
 ## Flatpak_Install_Script
 
-Shell script used to install various FLatpak packages I use for Work related tasks.
+Shell script used to bulk install various Flatpak packages I use for Work related tasks.
 
 ## Usage
 
