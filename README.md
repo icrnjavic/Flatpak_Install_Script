@@ -4,7 +4,7 @@ Shell script used to bulk install various Flatpak packages I use for Work relate
 
 ## Usage
 
-1. Install FLatpack with your respective Package manager.
+1. Install Flatpack with your respective Package manager.
    > Flathub remote will be added via the shell script if not already added.
 
 3. Make the script executable:
