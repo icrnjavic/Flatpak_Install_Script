@@ -14,6 +14,7 @@ fi
 
 # Your actual script to install Flatpaks
 flatpaks=(
+    io.appflowy.AppFlowy
     org.gimp.GIMP
     org.libreoffice.LibreOffice
     org.mozilla.firefox
