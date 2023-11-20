@@ -24,7 +24,7 @@ flatpaks=(
     org.mozilla.Thunderbird
     org.mozilla.firefox
     org.kde.kdenlive
-    
+    io.appflowy.AppFlowy
     # Add more Flatpak app IDs as needed
 )
 
