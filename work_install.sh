@@ -14,12 +14,10 @@ fi
 
 # Your actual script to install Flatpaks
 flatpaks=(
-    io.appflowy.AppFlowy
-    org.gimp.GIMP
+    io.gitlab.gregorni.Calligraphy
     org.libreoffice.LibreOffice
     org.mozilla.firefox
     com.spotify.Client
-    org.gimp.GIMP
     com.usebottles.bottles #For Fusion360
     com.getpostman.Postman
     com.anydesk.Anydesk
