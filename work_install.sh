@@ -14,6 +14,7 @@ fi
 
 # Your actual script to install Flatpaks
 flatpaks=(
+    org.gnu.pspp
     io.gitlab.gregorni.Calligraphy
     org.libreoffice.LibreOffice
     org.mozilla.firefox
