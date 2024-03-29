@@ -17,7 +17,7 @@ flatpaks=(
     org.gnu.pspp
     io.gitlab.gregorni.Calligraphy
     org.libreoffice.LibreOffice
-    org.mozilla.firefox
+    one.ablaze.floorp
     com.spotify.Client
     com.usebottles.bottles #For Fusion360
     com.getpostman.Postman
